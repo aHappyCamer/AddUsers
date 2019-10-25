@@ -2,7 +2,7 @@
 # ======================
 # Bash script program to add multiple users in batch mode
 #
-#      STUDENT: Phuong Cam
+#      NAME: Phuong Cam
 # DATE CREATED: March 26, 2018
 ################################################################################
 
